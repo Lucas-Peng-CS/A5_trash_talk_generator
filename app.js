@@ -38,9 +38,8 @@ app.get("/", (req, res) => {
 
 app.post("/", (req, res) => {
   const option = req.body.title;
-  console.log(option);
   const trashTalk = generateTrash(option);
-  
+
   res.render("index", { target, trashTalk, option });
 });
 
