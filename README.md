@@ -17,7 +17,7 @@
 
 1.開啟終端機(Terminal)將此專案 Clone 至本機電腦
 
-`https://github.com/LucasACSP/A5_trash_talk_generator.git`
+`https://github.com/Lucas-ac-sp/A5_trash_talk_generator.git`
 
 2.進入存放此專案的資料夾
 
